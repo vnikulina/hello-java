@@ -4,6 +4,8 @@
 
 # User-specific stuff
 .idea/
+afile
+afile.pub
 
 # File-based project format
 *.iws
